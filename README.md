@@ -1,7 +1,5 @@
-# Michael Williams
-### Geographer
-### Developer
-### AI/ML enthusiast
+<img src ="https://avatars.githubusercontent.com/u/51201856?v=4" alt="A logo representing C and W">
+
 <!--
 **CriticalWill/CriticalWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
