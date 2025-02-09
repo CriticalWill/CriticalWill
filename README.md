@@ -1,7 +1,7 @@
 <img src ="https://www.ers.usda.gov/sites/default/files/images/mikewilliams120x160.png" alt="An image of Michael Williams">
 
 # Michael Williams
-My primary work is in geospatial data science using Python, but I've dabbled in web development and have experience managing projects and companies.
+My primary work is in geospatial using Python, but I've dabbled in web development and have experience managing projects and companies.
 <!--
 **CriticalWill/CriticalWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
