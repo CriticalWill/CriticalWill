@@ -1,5 +1,7 @@
-<img src ="https://avatars.githubusercontent.com/u/51201856?v=4" width="250px" alt="A logo representing C and W">
+<img src ="https://www.ers.usda.gov/sites/default/files/images/mikewilliams120x160.png" alt="An image of Michael Williams">
 
+# Michael Williams
+My primary work is in geospatial data science.
 <!--
 **CriticalWill/CriticalWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
