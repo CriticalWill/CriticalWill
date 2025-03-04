@@ -1,8 +1,7 @@
 <!--<p align="center"><img src ="https://www.ers.usda.gov/sites/default/files/images/mikewilliams120x160.png" alt="An image of Michael Williams"></p>-->
 
 <h1 align="center"> Michael Williams</h1>
-<!--My primary work is in geospatial using Python, but I've dabbled in web development, skilled with both COTS and open source visualization tools as well as business and process automation, and enjoy working with new technologies. I have experience managing projects and companies, working on teams, and running solo assignments where self motivation and determination work well for me.
-<h3 align="center">Some of my past work: <a href= "https://public.tableau.com/views/Projects_16599850504100/NotableProjects?:language=en-US&:sid=&:redirect=auth&:display_count=n&:showVizHome=no"><img src= "https://raw.githubusercontent.com/CriticalWill/CriticalWill/refs/heads/main/Projects.PNG"></a></h3>
+<!--
 
 **CriticalWill/CriticalWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
