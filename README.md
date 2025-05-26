@@ -4,7 +4,9 @@
 <p align='center'><img src='https://raw.githubusercontent.com/CriticalWill/CriticalWill/refs/heads/main/Media/2024Profile.png' width='25%' style='opacity:0.2'></img></p>
 
 
-<span style='text-align:center'>Testing GitHub markdown styling</span>
+<span align='right'>Another test for GitHub markdown styling</span>
+
+Testing GitHub markdown styling
 
 <!--
 
