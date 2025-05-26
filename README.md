@@ -1,7 +1,7 @@
 <!--<p align="center"><img src ="https://www.ers.usda.gov/sites/default/files/images/mikewilliams120x160.png" alt="An image of Michael Williams"></p>-->
 
 <h1 align='center'> Michael Williams</h1>
-<p align='center'><img src='https://raw.githubusercontent.com/CriticalWill/CriticalWill/refs/heads/main/Media/2024Profile.png' width='30%' style='opacity:0.2'></img></p>
+<p align='center'><img src='https://raw.githubusercontent.com/CriticalWill/CriticalWill/refs/heads/main/Media/2024Profile.png' width='25%' style='opacity:0.2'></img></p>
 <!--
 
 **CriticalWill/CriticalWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
