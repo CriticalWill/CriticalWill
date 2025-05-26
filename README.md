@@ -4,6 +4,9 @@
 <p align='center'><img src='https://raw.githubusercontent.com/CriticalWill/CriticalWill/refs/heads/main/Media/2024Profile.png' width='25%' style='opacity:0.2'></img></p>
 <!--
 
+<span style='text-align:center'>Testing GitHub markdown styling</span>
+
+
 **CriticalWill/CriticalWill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
