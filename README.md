@@ -1,6 +1,6 @@
 <!--<p align="center"><img src ="https://www.ers.usda.gov/sites/default/files/images/mikewilliams120x160.png" alt="An image of Michael Williams"></p>-->
+<h1 align='center'> Michael Williams, <em style='font-size:36[x'>GISP</em></h1>
 
-<h1 align='center'> Michael Williams</h1>
 <p align='center'><img src='https://raw.githubusercontent.com/CriticalWill/CriticalWill/refs/heads/main/Media/2024Profile.png' width='25%' style='opacity:0.2' alt='Profile image of Michael'></img></p>
 
 <!--
